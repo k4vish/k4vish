@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/k4vish">GitHub</a> •
   <a href="https://linkedin.com/in/kavish-palan">LinkedIn</a>
 </p>
 
